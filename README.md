@@ -4,7 +4,11 @@
 <!-- Qué bonito es el osito :3 -->
 <img align="right" width=300px alt="Unicorn" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" />
 
-<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px">&nbsp;***About me***
+<!-- Sobre mi :3 -->
+## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 30px></picture> About me
+<br>
+
+<!-- Sobre mi - Descripcion :3 -->
 I am a junior web developer currently studying Web Application Development at IES Trassierra, Córdoba (Spain).  
 I have experience with HTML, CSS, JavaScript, PHP, MySQL, and tools like Bootstrap, Git, and jQuery.  
 I enjoy building responsive, creative, and functional websites, and I'm always eager to learn and improve my skills.
