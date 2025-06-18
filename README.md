@@ -26,6 +26,19 @@ Outside tech, 📚 I enjoy reading, 🎮 playing games, and 🎵 listening to mu
 📫 You can reach me at: **aleagu.dev@gmail.com**  
 🔗 GitHub: [github.com/AlexEgea](https://github.com/AlexEgea)
 
+<!-- Redes sociales  -->
+### 💬 Social Media
+<a href="https://www.facebook.com/alex.egeaaguilera">
+  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
+</a>
+<a href="https://www.instagram.com/aleexeegea17/">
+  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/alejandroaguileraco1993/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+
 <!-- Habilidades  -->
 ## 🛠️ My Skills
 
@@ -101,20 +114,6 @@ Outside tech, 📚 I enjoy reading, 🎮 playing games, and 🎵 listening to mu
 ### 🗄️ Servers
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
-
-<!-- Redes sociales  -->
-### 💬 Social
-![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-<a href="https://www.instagram.com/aleexeegea17/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
-
 
 
 
