@@ -26,20 +26,13 @@ Outside tech, 📚 I enjoy reading, 🎮 playing games, and 🎵 listening to mu
 📫 You can reach me at: **aleagu.dev@gmail.com**  
 🔗 GitHub: [github.com/AlexEgea](https://github.com/AlexEgea)
 
-<!-- Redes sociales  -->
-### 💬 Social Media
-<!-- Facebook  -->
-<a href="https://www.facebook.com/alex.egeaaguilera">
-  <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
-</a>
-<!-- Instagram  -->
-<a href="https://www.instagram.com/aleexeegea17/">
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
-</a>
-<!-- Linkedin  -->
-<a href="https://www.linkedin.com/in/alejandroaguileraco1993/">
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
-</a>
+## 📬 Contact Me
+📧 Email: [aleagu.dev@gmail.com](mailto:aleagu.dev@gmail.com)  
+🔗 GitHub: [github.com/AlexEgea](https://github.com/AlexEgea)  
+💼 LinkedIn: [linkedin.com/in/alejandroaguileraco1993](https://www.linkedin.com/in/alejandroaguileraco1993/)  
+📸 Instagram: [@aleexeegea17](https://www.instagram.com/aleexeegea17/)  
+📘 Facebook: [Alex Egea](https://www.facebook.com/alex.egeaaguilera)
+
 
 <!-- Habilidades  -->
 ## 🛠️ My Skills
@@ -98,15 +91,6 @@ Outside tech, 📚 I enjoy reading, 🎮 playing games, and 🎵 listening to mu
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)
 
-<!-- Oficina  -->
-### 🏢 Office
-![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
-![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)
-![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Microsoft Access](https://img.shields.io/badge/Microsoft_Access-A4373A?style=for-the-badge&logo=microsoft-access&logoColor=white)
-![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-![LibreOffice](https://img.shields.io/badge/LibreOffice-%2318A303?style=for-the-badge&logo=LibreOffice&logoColor=white)
 
 
 
