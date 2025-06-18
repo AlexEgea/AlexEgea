@@ -28,16 +28,18 @@ Outside tech, 📚 I enjoy reading, 🎮 playing games, and 🎵 listening to mu
 
 <!-- Redes sociales  -->
 ### 💬 Social Media
+<!-- Facebook  -->
 <a href="https://www.facebook.com/alex.egeaaguilera">
   <img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white">
 </a>
+<!-- Instagram  -->
 <a href="https://www.instagram.com/aleexeegea17/">
   <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white">
 </a>
+<!-- Linkedin  -->
 <a href="https://www.linkedin.com/in/alejandroaguileraco1993/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
 
 <!-- Habilidades  -->
 ## 🛠️ My Skills
