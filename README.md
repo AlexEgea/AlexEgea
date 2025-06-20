@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alejandro Aguilera</h1>
 
 <p align="center">
-  Junior Web Developer | Córdoba, Spain 🌍  
+  Junior Full-Stack Web Developer | Córdoba, Spain 🌍  
 </p>
 
 <img align="right" width="250px" src="https://c.tenor.com/GN73MKBawZYAAAAi/busy-cute.gif" alt="cute unicorn dev gif"/>
