@@ -76,7 +76,6 @@ I enjoy solving problems, learning new technologies, and building real-world pro
 
 ## 📈 Goals
 
-- 💼 Get my first job as a **Junior Developer**
 - 🧠 Keep improving in **Full-Stack Development**
 - 📊 Transition into **Data Science / Data Engineering**
 
