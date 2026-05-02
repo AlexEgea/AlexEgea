@@ -3,7 +3,9 @@
   Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Alejandro Aguilera
 </h1>
 
-<h3 align="center">🚀 Full-Stack Developer | Spain 🇪🇸</h3>
+<h3 align="center">
+🚀 Full-Stack Developer & Data Analyst | Spain 🇪🇸
+</h3>
 
 <p align="center">
   <a href="https://github.com/AlexEgea"><img src="https://img.shields.io/github/followers/AlexEgea?label=GitHub&style=social"></a>
@@ -16,20 +18,21 @@
 
 ## 👨‍💻 About Me
 
-💡 Full-Stack Developer with a background in **Web Application Development (DAW)**.  
-🎯 Focused on building **clean, functional, and scalable web applications**.  
-📚 Continuously learning and improving in **backend, frontend, and data-related technologies**.  
+💡 Full-Stack Developer & Data Analyst with a background in **Web Application Development (DAW)**.  
+🚀 Experienced in building **scalable web applications**, automation workflows, and data-driven solutions.  
+📊 Passionate about transforming data into insights and optimizing processes through technology.  
 
-I enjoy solving problems, learning new tools, and building real-world projects.
+I combine **backend, frontend, automation, and data analysis** to create real-world solutions with impact.
 
 ---
 
 ## 🔥 What I'm Doing Now
 
-- 🚀 Improving backend skills with **Laravel, Node.js, and .NET**
-- ⚛️ Building modern frontends with **React & Angular**
-- 🤖 Working on **automation and data processing with Python**
-- 📊 Exploring **Data Science**
+- 🚀 Developing backend systems with **Laravel, Node.js, and .NET**
+- ⚛️ Building modern UIs with **React & Angular**
+- 🤖 Automating processes and data workflows with **Python**
+- 📊 Working on **Data Analysis (Pandas, data processing, visualization)**
+- 🧠 Exploring **AI integration in real projects**
 
 ---
 
@@ -56,9 +59,29 @@ I enjoy solving problems, learning new tools, and building real-world projects.
 ### 🗃️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
+### 🤖 Data & AI
+- Data Analysis with **Python (Pandas)**
+- Data Processing & Automation
+- AI APIs: OpenAI, Claude, Gemini
+
 ### 🧰 Tools
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 🚀 Featured Project
+
+### 🎯 Academia Ariete – Web Platform
+
+Full-stack development of a web application for an educational academy.
+
+- 🧩 End-to-end development (analysis, design, implementation, deployment)
+- ⚙️ Backend with **PHP (Laravel) & SQL**
+- 🎨 Frontend with **JavaScript, HTML, CSS**
+- 📈 Focus on scalability, usability, and real-world deployment
+
+👉 Real project focused on improving digital presence and content management.
 
 ---
 
@@ -69,7 +92,7 @@ I enjoy solving problems, learning new tools, and building real-world projects.
 - Interactive frontends with JavaScript, React, and Angular  
 
 🔹 **Python & Data**
-- Data processing with CSV & Excel  
+- Data analysis and processing (CSV, Excel)  
 - Web scraping with Selenium  
 - Automation scripts  
 
@@ -79,9 +102,9 @@ I enjoy solving problems, learning new tools, and building real-world projects.
 
 ## 📈 Goals
 
-- 💼 Work as a **Full-Stack Developer**
-- 🧠 Keep growing in **modern web technologies**
-- 📊 Move towards **Data Science / Data Engineering**
+- 💼 Work as a **Full-Stack Developer / Data Analyst**
+- 🤖 Build solutions combining **web + automation + data**
+- 📊 Grow towards **Data Engineering / AI-driven development**
 
 ---
 
